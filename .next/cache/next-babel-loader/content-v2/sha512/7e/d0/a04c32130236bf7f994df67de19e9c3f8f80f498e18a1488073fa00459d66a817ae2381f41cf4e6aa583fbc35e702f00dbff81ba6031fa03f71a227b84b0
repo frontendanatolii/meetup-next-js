@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const MeetUpDetail = props => {};","map":{"version":3,"sources":["D:/incode/meetup-app-next-js/components/meetups/MeetupDetail.js"],"names":["MeetUpDetail","props"],"mappings":"AAAA,OAAO,MAAMA,YAAY,GAAIC,KAAD,IAAW,CAEtC,CAFM","sourcesContent":["export const MeetUpDetail = (props) => {\n  \n}"]},"metadata":{},"sourceType":"module"}

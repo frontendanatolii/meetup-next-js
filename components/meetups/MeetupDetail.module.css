@@ -1,0 +1,29 @@
+.container img {
+  border-radius: 10%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+}
+
+.container img:hover {
+  transform: scale(1.05);
+}
+
+.container {
+  text-align: center;
+}
+
+.container h1 {
+  font-weight: bold;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+.container address {
+  font-style: normal;
+  font-weight: 500;
+  text-transform: capitalize;
+  color: rgb(52, 91, 91);
+}
+
+.container p {
+  font-weight: 900;
+}
